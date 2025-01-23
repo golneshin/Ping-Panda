@@ -1,7 +1,7 @@
 import { Check, Star } from "lucide-react"
-import Heading from "./components/Heading"
-import MaxWidthWrapper from "./components/MaxWidthWrapper"
-import ShinyButton from "./components/ShinyButton"
+import Heading from "../../components/Heading"
+import MaxWidthWrapper from "../../components/MaxWidthWrapper"
+import ShinyButton from "../../components/ShinyButton"
 
 const page = () => {
   return (
